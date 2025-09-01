@@ -105,7 +105,7 @@
     },
     "devDependencies": {
         "@babel/core": "^7.23.7",
-        "@babel/runtime": "^7.23.8",
+        "@babel/runtime": "^7.27.6",
         "@fortawesome/fontawesome-svg-core": "^6.5.1",
         "@fortawesome/free-solid-svg-icons": "^6.5.1",
         "@fortawesome/react-native-fontawesome": "^0.3.0",
